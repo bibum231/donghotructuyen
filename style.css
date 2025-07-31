@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0e0e0e;
+  color: #00ffcc;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.time {
+  font-size: 80px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.date {
+  font-size: 24px;
+  margin-top: 10px;
+  color: #ccc;
+}
+
+.timezone {
+  font-size: 18px;
+  margin-top: 5px;
+  color: #888;
+}
